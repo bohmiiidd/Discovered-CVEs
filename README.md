@@ -1,4 +1,4 @@
-# My CVEs
+# Discovered CVEs
 
 A collection of vulnerabilities I've discovered, reported, and disclosed.
 Each folder below contains a detailed writeup and proof-of-concept notes for one CVE.
