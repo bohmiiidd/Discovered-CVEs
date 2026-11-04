@@ -15,6 +15,7 @@ Each folder below contains a detailed writeup and proof-of-concept notes for one
 | [CVE-2026-116260](./CVE-2026-116260) | Double free in service_receive error path | libimobiledevice service layer | CVSS 7.3 | CWE-415 (Double Free) |
 | [CVE-2026-116261](./CVE-2026-116261) | Uninitialized heap read in afc_file_open | libimobiledevice AFC | MEDIUM | CWE-908 (Use of Uninitialized Resource) |
 | [CVE-2026-116262](./CVE-2026-116262) | Heap overflow in webinspector_receive_with_timeout | libimobiledevice webinspector | MEDIUM | CWE-122 (Heap-based Buffer Overflow) |
+| [CVE-2026-107734](./CVE-2026-107734) | SyncTeX argument injection enables arbitrary command execution via external editors | SumatraPDF SyncTeX inverse search | HIGH | CWE-88 (Argument Injection) |
 
 ## Structure
 
